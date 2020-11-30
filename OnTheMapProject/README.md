@@ -1,4 +1,4 @@
-# OnTheMAp Project
+# OnTheMap Project
 
 IOS app shows information posted by other students on a map.
 The map will contain pins that show the location where other students have reported studying.
